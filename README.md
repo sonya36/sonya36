@@ -13,8 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonya36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonya36&show_icons=true&locale=en" alt="sonya36" /></p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
