@@ -1,4 +1,4 @@
-👋 Hello there, it's me Somiya!
+👋 Hello there, it's me Soniya Sharma!
 
 <br>👨‍💻 **Computer Engineering Student** with strong knowledge in networking, cloud technologies, and project development.  <br>🚀 Passionate about **Cloud Integration** and **DevOps practices**, currently focusing on mastering **AWS Cloud** technologies.  <br>💻 Proficient in programming with **C, C++, Python, JavaScript**, and experienced in **web development** using **React.js** and **Django Framework**.  <br>🔧 Actively engaged in integrating **DevOps principles** to optimize software development and deployment processes.<br><br>Check out my projects and feel free to collaborate!<br>
 
